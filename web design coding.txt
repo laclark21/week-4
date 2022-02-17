@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Winter Break</title>
+</head>
+<body>
+
+
+<h1>Winter Break 2021</h1>
+<h1> Louie Louie </h1>
+<img src="Images/IMG-6205-Original.jpg"
+<img src="Images/cremebrule.jpg"
+
+
+<p> I tried Creme brulee. </p>
+
+
+<h1>Sledding</h1>
+<img src="Images/Sledding.jpg"
+<p> This year we got new sleds and took advantage of the snow!</p>
+<video width="320" height="240" controls>
+  <source src="Videos/ssledding.mov" type="video/mp4"
+
+
+<h1>Ice Skating</h1>
+<img src="Images/iceskating.jpg"
+<p> I went Ice skating for the first time in awhile </p>
+
+
+<video width="320" height="240" controls>
+  <source src="Videos/iiceskating.MOV" type="video/mp4">
+  </video>
+
+
+
+
+
+</body>
+</html>
